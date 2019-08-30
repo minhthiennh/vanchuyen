@@ -1,0 +1,5 @@
+=importxml("http://maps.googleapis.com/maps/api/directions/xml?origin=" &L2 & "&destination=" &M2  & "&sensor=false&alternatives=false","//leg/distance/value")/1000
+
+Với L1: Địa chỉ đi
+    L2: Địa chỉ đến
+    Hình ảnh trong file Trang tính: https://prnt.sc/oznxt2
